@@ -1,0 +1,1 @@
+9999999999{"name": "django-positions", "version": "0.6.0", "summary": "A Django field for custom model ordering", "platform": "", "requires_dist": ["Django", "setuptools"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

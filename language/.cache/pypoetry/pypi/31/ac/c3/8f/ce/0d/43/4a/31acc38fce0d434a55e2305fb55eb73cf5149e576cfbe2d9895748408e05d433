@@ -1,0 +1,1 @@
+9999999999{"name": "hostsman", "version": "1.1.5", "summary": "A tool to manage hosts file", "platform": "", "requires_dist": ["Pygments", "colorama", "check-manifest; extra == 'dev'", "coverage; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
